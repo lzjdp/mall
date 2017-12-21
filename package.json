@@ -1,0 +1,11 @@
+{
+  "name": "20_mall_v2.0",
+  "version": "1.0.0",
+  "description": "a web mall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
